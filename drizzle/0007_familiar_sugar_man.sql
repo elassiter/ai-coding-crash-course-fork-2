@@ -1,0 +1,1 @@
+ALTER TABLE `courses` ADD `sub_subject_matters` text(20);
